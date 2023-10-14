@@ -9,6 +9,8 @@ J.A.R.V.I.S. AI is a real-time voice-controlled artificial intelligence system t
 
 Look at my LinkedIn post to see J.A.R.V.I.S. AI in action:
 
+![Aditya's LinkedIn post](https://www.linkedin.com/posts/aditya-goyal-252698221_ai-voiceassistant-openai-activity-7119073178097758208-zF-i?utm_source=share&utm_medium=member_desktop)
+
 
 
 ## Table of Contents 📚
