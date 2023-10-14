@@ -73,7 +73,7 @@ Before you can run J.A.R.V.I.S. AI, you'll need to have the following installed 
             'name_4': '+91XXXXXXXXXX',
             'name_5': '+91XXXXXXXXXX'}
       ```
-
+    - Also, log in to whatsapp using whatsapp web, of the window just launched. Make sure to close window whenever you Re-Run Jarvis.
 
    - Launch Jarvis.py 🚀
    ```bash
