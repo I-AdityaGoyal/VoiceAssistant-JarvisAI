@@ -1,6 +1,7 @@
 # J.A.R.V.I.S. AI 🤖 🗨️ 💻
 
-![S6RP7.gif](https://s6.gifyu.com/images/S6RP7.gif)
+![download](https://github.com/I-AdityaGoyal/VoiceAssistant-JarvisAI/assets/91681021/81b3f910-915c-4ad9-82c5-81467f21085d)
+
 
 ## Introduction 📢
 
