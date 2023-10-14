@@ -1,0 +1,12 @@
+Question: what in mean by time complexity
+
+Answer: Time complexity is a measure of the amount of time it takes for an algorithm to complete its task. It is usually expressed as a function of the size of the input data. It is used to compare the efficiency of different algorithms for the same problem.
+Question: what is dharma
+
+Answer: Dharma is a key concept in Hinduism, Buddhism, and Jainism. It is the moral law that governs all life and is based on the principles of truth, righteousness, and order. Dharma is the path of right living and encompasses duties, rights, laws, conduct, virtues, and right way of living.
+Question: what is sanatan dharma
+Answer: Sanatan Dharma is a Sanskrit term meaning �eternal law� or �eternal duty�. It is a term used to describe the core beliefs and practices of Hinduism, which are based on the Vedas and Upanishads. Sanatan Dharma is also known as Hinduism, Vedic Dharma, or Vedic Religion.
+Question: who is mahakala
+Answer: Mahakala is a Hindu deity associated with protection, strength, and destruction. He is often depicted as a fierce, blue-skinned figure with multiple arms and heads. He is associated with the god Shiva and is believed to be an incarnation of him. He is also known as the Lord of Time and is said to be the destroyer of evil.
+Question: tell me something about lord ram
+Answer:  Lord Ram is a central figure in Hindu mythology and is considered to be an incarnation of the god Vishnu. He is the seventh avatar of Vishnu and is known for his courage, wisdom, and devotion. He is the protagonist of the Hindu epic Ramayana and is revered as a symbol of righteousness, virtue, and justice. He is also known for his self-sacrifice and his unwavering devotion to his wife Sita.
