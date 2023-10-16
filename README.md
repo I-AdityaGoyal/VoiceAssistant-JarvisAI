@@ -1,6 +1,7 @@
 # J.A.R.V.I.S. AI 🤖 🗨️ 💻
 
-![download](https://github.com/I-AdityaGoyal/VoiceAssistant-JarvisAI/assets/91681021/81b3f910-915c-4ad9-82c5-81467f21085d)
+
+![1521812998053](https://github.com/I-AdityaGoyal/VoiceAssistant-JarvisAI/assets/91681021/6c6574fd-b589-4029-9202-14ec43387605)
 
 
 ## Introduction 📢
